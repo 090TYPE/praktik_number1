@@ -1,0 +1,7 @@
+C:\Users\090\source\repos\prak1\prak1\bin\Debug\prak1.exe.config
+C:\Users\090\source\repos\prak1\prak1\bin\Debug\prak1.exe
+C:\Users\090\source\repos\prak1\prak1\bin\Debug\prak1.pdb
+C:\Users\090\source\repos\prak1\prak1\obj\Debug\prak1.csproj.AssemblyReference.cache
+C:\Users\090\source\repos\prak1\prak1\obj\Debug\prak1.csproj.CoreCompileInputs.cache
+C:\Users\090\source\repos\prak1\prak1\obj\Debug\prak1.exe
+C:\Users\090\source\repos\prak1\prak1\obj\Debug\prak1.pdb
