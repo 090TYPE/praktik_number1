@@ -1,0 +1,747 @@
+uid;parent_uid;title;catnum
+deliverygraph_close_resources;md_deliverygraph;График доставки: закрытие ресурсов;1.148.2
+deliverygraph_open_resources;md_deliverygraph;График доставки: открытие ресурсов;1.148.3
+deliverygraph_query_intervals;md_deliverygraph;График доставки: настройки интервалов снятия очереди;1.148.4
+md_addsales;NULL;Допродажи;1.165
+md_admin;NULL;Admin;1.51
+md_admin_client_alarm_notify;md_admin;Оповещения об инцидентах у ключевых клиентов;1.51.54
+md_admin_phones;md_admin;Удаление телефонов;1.51.53
+md_admin_tarifzones;md_admin;Редактирование тарифных зон;1.51.58
+md_admin_troubleticket_bot;md_admin;Администрирование Telegram-бота TroubleTicket;1.51.52
+md_admin_trouble_call_slots;md_admin;Заполнение интервалов звонков;1.51.57
+md_admin_tt_adv;md_admin;Генерация ТТ на размещение рекламы;1.51.60
+md_admin_wf_access;md_admin;Настройка доступов WF;1.51.55
+md_agents;NULL;Агенты и партнёры;1.17
+md_alarmer;NULL;Инциденты;1.5
+md_anylegend;NULL;Графические отчеты: изменение легенды;1.90
+md_autopayments;md_stats;Отчет по автоплатежам;1.128.50
+md_b2x_analiz;md_b2x_orders;Финансовый анализ эффективности проектов;1.140.15
+md_b2x_orders;NULL;AlmaProject;1.140
+md_b2x_orders_docc;md_b2x_orders;AlmaProject. Контроль оригиналов документов (ООКК);1.140.1
+md_b2x_orders_dtsp;md_b2x_orders;AlmaProject. Редактирование вариантов включения (ДТСП);1.140.5
+md_b2x_tasks;md_b2x_orders;AlmaProject. Задачи;1.140.2
+md_blank_order_form;NULL;Бланки заказа пропусков;1.151
+md_bonus_presents;md_stats;Администрирование каталога подарков за бонусы;1.128.74
+md_calendar;NULL;Календарь;1.2
+md_call_center_zp;md_menu_pay;Расчет по операторам ДОК;1.28.3
+md_celmark;NULL;Целевой маркетинг;1.124
+md_celmarkadm;md_admin;Управление целевым маркетингом (новый);1.51.59
+md_celmark_new;NULL;Целевой маркетинг new;1.167
+md_checklist;NULL;Чеклист;1.145
+md_cheque;NULL;Чеки;1.154
+md_client_diag;NULL;Диагностика абонентов;1.159
+md_contracts;NULL;Договоры;1.24
+md_contracts_agre;md_contracts;Договора: присутствие в списке согласовывающих;1.24.3
+md_contracts_aprv;md_contracts;Договора: присутствие в списке утверждающих;1.24.4
+md_contracts_fullaccess;md_contracts;Договора: доступ ко всем договорам;1.24.1
+md_contracts_sign;md_contracts;Договора: присутствие в списке подписывающих;1.24.2
+md_controlflow;NULL;Alma Billing;1.139
+md_couriers;NULL;Курьерская служба;1.47
+md_customer_alert;md_stats;Оповещение клиентов;1.128.59
+md_debug;md_admin;Отладчик;1.51.5
+md_decrees;NULL;Приказы;1.99
+md_deliverygraph;NULL;График доставки;1.148
+md_deliverygraph_control;md_deliverygraph;График доставки: управление;1.148.1
+md_dezjurstvo;NULL;График дежурств;1.42
+md_dismiss;NULL;Заявки на увольнение;1.103
+md_dismiss_all;md_dismiss;Увольнять всех;1.103.2
+md_dismiss_list;md_dismiss;Заявки на увольнение: обходной лист;1.103.1
+md_docsflow;NULL;Документооборот;1.153
+md_docsflow_acc;md_docsflow;Документооборот. Права для бухгалтера;1.153.1
+md_documents;NULL;Документы;1.41
+md_documents_tech;md_documents;Доступ к технической документации;1.41.1
+md_doc_admin;md_admin;Админ - Управление документами;1.51.6
+md_doc_routing;NULL;Маршрутизация задач;1.138
+md_doc_routing_admin;md_admin;Администрирование маршрутов;1.51.7
+md_dolzn_rights;md_admin;Редактор должностей;1.51.8
+md_doma;NULL;Наши дома;1.29
+md_doma_active_uslugs;md_doma;Справочник активных услуг по домам;1.29.28
+md_doma_balans;md_doma;Наши дома: выборка по балансу (все дома);1.29.16
+md_doma_dopusk;md_doma;Наши дома: выборка по допуску;1.29.18
+md_doma_edit;md_doma;Наши дома: редактирование дома;1.29.27
+md_doma_edit_cifra;md_doma_edit;Установка статуса Подключен [Цифра-1];1.29.27.2
+md_doma_edit_nepodkl;md_doma_edit;Установка статуса Не подключен;1.29.27.3
+md_doma_edit_status;md_doma_edit;Наши дома: редактирование статуса;1.29.27.1
+md_doma_explispoln;md_doma;Наши дома: выборка по эксплуатации и исполнителю;1.29.11
+md_doma_obsl;md_doma;Наши дома: ТПР;1.29.26
+md_doma_obsl_akt;md_doma_obsl;Наши дома: ТПР. Редактирование акта обследования;1.29.26.2
+md_doma_obsl_akt_stroy;md_doma_obsl;Наши дома: ТПР. Редактирование акта строительства;1.29.26.3
+md_doma_obsl_files;md_doma_obsl;Наши дома: ТПР редактирование;1.29.26.1
+md_doma_poprate;md_doma;Наши дома: рейтинг популярности;1.29.20
+md_doma_sost;md_doma;Наши дома: выборка по состоянию;1.29.12
+md_doma_sost2;md_doma;Наши дома: выборка по актуальному состоянию;1.29.13
+md_doma_sost3;md_doma;Наши дома: выборка по одному состоянию;1.29.14
+md_doma_sost_modern;md_doma;Наши дома: выборка по актуальному состоянию (модернизация);1.29.15
+md_doma_status;md_doma;Наши дома: выборка по статусу (все дома);1.29.10
+md_doma_stojaki;md_doma;Наши дома: стояки;1.29.6
+md_doma_trassa;md_doma;Наши дома: клиентские трассы;1.29.5
+md_doma_typeofbuilding;md_doma;Наши дома (расширение: класс здания);1.29.1
+md_doma_uslpris;md_doma;Наши дома (расширение: условия присутствия);1.29.2
+md_doma_vladogovor;md_doma;Наши дома: выборка по договорам с владельцами;1.29.19
+md_dom_agents;md_doma;Агенты по адресам;1.29.29
+md_dom_build;md_doma;Наши дома: строительство;1.29.21
+md_dom_draw;md_doma;Наши дома: отрисовка;1.29.22
+md_dom_edit_svyaznadzor;md_doma;Наши дома: Связьнадзор;1.29.7
+md_dom_expl;md_doma;Наши дома: эксплуатация;1.29.4
+md_dom_pay;md_doma;Наши дома: периодические платежи;1.29.3
+md_dom_scheme;md_doma;Наши дома: схемы домов;1.29.17
+md_dom_verify;md_doma;Наши дома: верифицирование домов;1.29.23
+md_dom_zatraty;md_doma;Наши дома: затраты по строительству;1.29.8
+md_dopusk_lists;NULL;Списки сотрудников (допуски);1.31
+md_dopusk_lists_advanced_permissions;md_dopusk_lists;Удаление и блокировка списка допусков;1.31.1
+md_email_sending;NULL;Рассылка E-mail абонентам;1.123
+md_entrkod;md_stats_old;Коды подъездов;1.26.53
+md_extord;NULL;Заявки внешних агентов;1.131
+md_fill_passport;NULL;Заполнение паспортных данных;1.157
+md_fill_passport_scan;NULL;Сканирование;1.158
+md_fin_manager;NULL;Финансовый менеджер;1.130
+md_fin_manager_contract;md_fin_manager;Финансовый менеджер. Контроль.;1.130.1
+md_fin_manager_stats;md_fin_manager;Финансовый менеджер. Отчеты;1.130.2
+md_fin_manager_stats_2kom_for_c1_articles;md_fin_manager_stats;Финансовый менеджер. Выручка по 2KOM для 1С, со статьями;1.130.2.6
+md_fin_manager_stats_corrections;md_fin_manager_stats;Финансовый менеджер. Выгрузка корректировочных реализаций за отчетный период;1.130.2.9
+md_fin_manager_stats_corrections_fiz;md_fin_manager_stats;Финансовый менеджер. Отчет корректировки по физлицам;1.130.3
+md_fin_manager_stats_remainders;md_fin_manager_stats;Финансовый менеджер. Отчет по зачисленным остаткам;1.130.4
+md_fin_manager_stats_revenue_b2c;md_fin_manager_stats;Финансовый менеджер. Выручка физ лиц(классическая);1.130.2.1
+md_fin_manager_stats_revenue_b2c_c1_detail;md_fin_manager_stats;Финансовый менеджер. Выручка физ лиц (детальная) для подневного списания Цифра1;1.130.2.3
+md_fin_manager_stats_revenue_b2c_c1_detail_daily;md_fin_manager_stats;Финансовый менеджер. Выручка физ лиц (детальная) для подневного списания 2KOM и Бирюлёво;1.130.2.4
+md_fin_manager_stats_revenue_b2c_detail;md_fin_manager_stats;Финансовый менеджер. Выручка физ лиц (детальная) СТАРЫЙ;1.130.2.2
+md_fin_manager_stats_revenue_detail_by_org_period;md_fin_manager_stats;Финансовый менеджер. Выручка (детальная) по организации за период;1.130.2.7
+md_fin_manager_stats_sales;md_fin_manager_stats;Финансовый менеджер. Выгрузка реализаций за отчетный период;1.130.2.8
+md_fin_manager_stats_setel_for_c1_a;md_fin_manager_stats;Финансовый менеджер. Выручка по Сетел для 1С, со статьями;1.130.2.5
+md_fot;NULL;Изменение заработной платы / должности;1.102
+md_fot_full_access;md_fot;Доступ ко всем заявкам на изменение ФОТ;1.102.1
+md_fraud;NULL;Назначение в график любых заявок;1.122
+md_get_cansel_discounts;md_stats;Отмененные скидки за период;1.128.70
+md_grafikpodkl;NULL;График подключений и эксплуатации;1.88
+md_graph_b2b;NULL;Графики встреч B2B;1.25
+md_graph_b2b_manager;md_admin;Графики встреч B2B: менеджеры;1.51.2
+md_help;NULL;Alma Help;1.146
+md_incoming_calls;NULL;Входящая линия;1.113
+md_info;NULL;Документы, бланки, инструкции;1.166
+md_itorders;NULL;IT заявки;1.91
+md_itorders_access_accowner;md_itorders;IT заявки: прямой запрос к владельцу модуля (в обход вектора согласования);1.91.1
+md_journal;NULL;Журнал;1.38
+md_journal_switches;NULL;Журнал свичей;1.39
+md_jumba;NULL;Jumba;1.127
+md_kodcl_docs;NULL;Электронный каталог документов;1.143
+md_kodcl_docs_files;md_kodcl_docs;Электронный каталог документов - редактирование;1.143.1
+md_logical_stock;NULL;Склады;1.107
+md_mailing_lists;md_stats;Статистика по email рассылкам;1.128.49
+md_manual_phone_b2c;md_stats;Отчет по блокировке|разблокировке телелефонии B2C;1.128.68
+md_map;NULL;Карта подключенных домов;1.125
+md_map2;md_map;Карта домов: география;1.125.19
+md_map_b2b_interest;md_map;Карта подключенных домов. Слой B2B интересов;1.125.1
+md_map_cian;md_map;Карта подключенных домов. Слой Новостройки Cian;1.125.16
+md_map_draw_net;md_map;Карта подключенных домов. Карта трасс;1.125.4
+md_map_draw_net_cifra;md_map;Карта подключенных домов. Отрисовка Цифры;1.125.14
+md_map_draw_net_cifra_edit;md_map;Карта подключенных домов. Отрисовка Цифры. Редактирование;1.125.15
+md_map_draw_net_edit;md_map_draw_net;Карта подключенных домов. Карта трасс. Редактирование;1.125.4.1
+md_map_new_layer;md_map;Карта подключенных домов. Заливка чужих домов;1.125.12
+md_meeting;NULL;Совещания;1.12
+md_memo;md_b2x_orders;AlmaProject. Служебные записки;1.140.14
+md_menu_pay;NULL;Системы сдельных оплат труда;1.28
+md_messages;NULL;Сообщения;1.34
+md_montazh_motivation;NULL;Монтажники.Мотивация;1.162
+md_moskvaonline_voting;NULL;Отзывы на сайте «Москва On-line»;1.149
+md_network;NULL;Работы на сети;1.35
+md_new_contracts;NULL;Договора (new);1.126
+md_obzvon;NULL;Обзвон (старый);1.32
+md_obzvon_archive;md_obzvon;Обзвон: архив;1.32.1
+md_obzvon_promotion;NULL;Обзвон по акциям;1.164
+md_office_memo;NULL;Служебные записки;1.152
+md_ordcorp;NULL;Заявки B2B;1.21
+md_ordcorp_all;md_ordcorp;Заявки B2B: просмотр всех заявок;1.21.5
+md_ordcorp_b2b;md_stats_old;Отчет по инсталляциям;1.26.54
+md_ordcorp_excel;md_ordcorp;Заявки В2В: выгрузка в Excel;1.21.3
+md_ordcorp_nopodklcheck;md_ordcorp;Заявки B2B: закрытие без проверок;1.21.1
+md_ordcorp_switchinfo;md_ordcorp;Заявки B2B: редактирование параметров свитча;1.21.2
+md_orders;NULL;Заявки B2C;1.15
+md_orders_active_tarifs;md_orders;Заявки: доступ ко всем активным тарифам;1.15.19
+md_orders_bonus;md_orders;Заявки: рассчёт баллов сотрудникам;1.15.8
+md_orders_dogovor;md_orders;Заявки: создание договоров;1.15.2
+md_orders_draw;md_orders;Заявки: отрисовка порта и списание аренды;1.15.11
+md_orders_expl;md_orders;Заявки: эксплуатация (исправление нарушений);1.15.4
+md_orders_expl_priem;md_orders_expl;Заявки: эксплуатация (приёмка);1.15.4.1
+md_orders_grafik;md_orders;Заявки: постановка в график;1.15.1
+md_orders_grafik_clear;md_orders;Заявки: отправка из графика в доработку;1.15.20
+md_orders_grafik_today;md_orders;Заявки: постановка в график на текущий день;1.15.1.1
+md_orders_notchahgeable_edit;md_orders;Заявки: редактирование подключенного абонента;1.15.6
+md_orders_odsa;md_orders;Доступ к ODSA.2kom.ru;1.15.10
+md_orders_parovoz;md_orders;Заявки: создание договоров-возвращенцев;1.15.3
+md_orders_prin;NULL;Принятие договоров;1.16
+md_orders_skidka_blatn;md_orders;Заявки: скидка для VIP-абонентов;1.15.5
+md_orders_vgpr;md_orders;Заявки: выбор выгодоприобретателя при регистрации заявки;1.15.9
+md_orders_view_agents;md_orders;Заявки: просмотр заявок внешних агентов;1.15.17
+md_orders_view_all;md_orders;Заявки: просмотр всех заявок;1.15.12
+md_orders_view_odsa;md_orders;Заявки: просмотр заявок ODSA;1.15.15
+md_orders_view_older;md_orders;Заявки: просмотр подключенных заявок старше 30 дней;1.15.18
+md_orders_view_rtm;md_orders;Заявки: просмотр заявок RTM;1.15.16
+md_orders_view_uvol;md_orders;Заявки: просмотр заявок B2C уволенных сотрудников;1.15.13
+md_orders_view_uzel;md_orders;Заявки: просмотр всех заявок по узлу;1.15.14
+md_order_voices;md_orders;Заявки: записи разговоров;1.15.7
+md_ordmvno_admin;md_admin;Мобильные номера;1.51.47
+md_ordphone;NULL;Заявки на телефонию;1.147
+md_ordphone_grafik;md_ordphone;Заявки на телефонию: постановка в график;1.147.1
+md_ordphone_grafik_clear;md_ordphone;Заявки на телефонию: отправка из графика доставки в доработку;1.147.2
+md_ordphone_grafik_today;md_ordphone;Заявки на телефонию: постановка в график доставки на текущий день;1.147.3
+md_ord_inspect;NULL;Заявки обследование;1.137
+md_ord_persons;md_admin;Админ - Кабельщики, настройщики и т.п.;1.51.9
+md_otdel_rights;NULL;Назначение прав должностям;1.96
+md_owners;NULL;Управляющая компания;1.30
+md_owners_access_fact;md_owners;Управляющая компания - время фактического доступа;1.30.3
+md_owners_dogovor;md_owners;Управляющая компания - договора;1.30.2
+md_owner_delete;md_owners;Управляющая компания - удаление записи;1.30.1
+md_owner_edit;md_owners;Управляющая компания - добавление/изменение записи;1.30.4
+md_owner_obsl;md_doma_obsl;Наши дома: ТПР Управляющая компания;1.29.26.4
+md_owner_obsl_files;md_doma_obsl;Наши дома: ТПР Управляющая компания - редактирование;1.29.26.5
+md_perezvon;NULL;Очередь на перезвон;1.142
+md_personal_stat;md_stats_old;Свод по табелю;1.26.10
+md_phone_numbers;NULL;Номера ABC / КДУ;1.156
+md_plugindescr;NULL;Редактор описаний модулей;1.95
+md_plugins;md_admin;Редактор модулей(права, названия, владелец);1.51.10
+md_plugins_editor;md_plugins;Редактор названий и прав на модули;1.98.1
+md_presale;NULL;PreSale;1.150
+md_privmsg;NULL;Личные сообщения;1.46
+md_promocodes;md_admin;Управление промокодами;1.51.56
+md_recruitment;NULL;Заявки на подбор персонала;1.101
+md_recruitment_create_any_to_otdel;md_recruitment;Создание заявки на подбор в любой отдел структуры;1.101.3
+md_recruitment_full_access;md_recruitment;Доступ ко всем заявкам на подбор;1.101.2
+md_recruitment_select_recruiter;md_recruitment;Возможность выбора рекрутера, который нашел кандидата;1.101.1
+md_remind_alarm;NULL;Оповещения;1.93
+md_remote_access;NULL;Удалённый доступ;1.132
+md_remote_services_individuals;md_stats;Удаленные услуги физ.лиц;1.128.58
+md_remove_access;md_admin;Удаление доступа к модулю;1.51.1
+md_report_locks;md_stats;Запрос аудиторов: Отчет по блокировкам;1.128.75
+md_report_tech;NULL;Отчёт по техучёту;1.40
+md_report_tech_toarchive;md_report_tech;Отчет по техучету отправка в архив;1.40.1
+md_report_traffic_missing;md_stats_old;Отчет по отсутствующему трафику;1.26.69
+md_report_traffic_overspend;md_stats_old;Отчет по просроченному трафику;1.26.70
+md_return;NULL;Возврат оборудования (Ситилинк);1.94
+md_rework;NULL;Доработки;1.92
+md_rework_accept;md_rework;Доработки: утверждение, отказ, hold;1.92.1
+md_rtm_admin;NULL;Админка RTM;1.117
+md_rtm_motivation;md_rtm_admin;Мотивация по VAS;1.117.2
+md_rtm_users;md_rtm_admin;Сотрудники RTM;1.117.1
+md_rtm_zp;md_menu_pay;Расчет зарплаты удаленным телемаркетологам;1.28.4
+md_safekeeping;NULL;Ответственное хранение оборудования;1.136
+md_safekeeping_confirm;md_safekeeping;Ответственное хранение оборудования (подтверждение);1.136.1
+md_safekeeping_return;md_safekeeping;Ответственное хранение оборудования (снятие с ОХ);1.136.2
+md_scheduler;NULL;Проекты;1.10
+md_scheduler_deadline;md_scheduler;Проекты - установка срока;1.10.1
+md_scheduler_estimate;md_scheduler;Проекты. Оценка;1.10.6
+md_search;NULL;Поиск задач;1.3
+md_searchosandpc;NULL;Сквозной поиск оборудования (ОС);1.120
+md_secretariat_meeting;md_meeting;Совещания: секретариат;1.12.1
+md_setevik_zp;md_menu_pay;Расчёт зарплаты монтажникам;1.28.1
+md_settings;NULL;Настройки;1.45
+md_site_notifications;NULL;Управление уведомлениями на сайтах;1.160
+md_spisanie;NULL;Списание материала в заявках B2C и ТТ ;1.22
+md_spisanieutr;NULL;Списание утраченного;1.23
+md_spisanieutr_accept;md_spisanieutr;Списание утраченного: акцептование;1.23.2
+md_spisanieutr_price;md_spisanieutr;Списание утраченного: установка цен;1.23.1
+md_spisanieutr_prlist;md_spisanieutr;Списание утраченного: подключать ко всем задачам;1.23.4
+md_spisanieutr_uderzh;md_spisanieutr;Списание утраченного: удержание;1.23.3
+md_spisanie_all;md_spisanie;Списание материала со всех;1.22.1
+md_stats;NULL;Отчёты_new;1.128
+md_statsexpl;md_stats_old;Выборка по эксплуатации;1.26.7
+md_statsmanager;md_stats_old;Статистика по работе сотрудников в WF;1.26.6
+md_statsord;md_stats_old;Статистика по заявкам B2C (old);1.26.4
+md_statsord_bymonth;md_stats_old;Динамика заявок B2C по районам;1.26.13
+md_statsord_conv;md_stats_old;Конвертация B2C по каналам продаж;1.26.47
+md_statsord_infos;md_stats_old;Эффективность рекламы B2C;1.26.17
+md_statsord_office;md_stats_old;Статистика по офисным заявкам;1.26.63
+md_statsord_otkaz;md_stats_old;Статистика по причинам отказов B2C;1.26.12
+md_statsord_region_dynamics;md_stats_old;Статистика по динамике заявок в районах;1.26.16
+md_statsord_tarif;md_stats_old;Статистика по тарифам в заявках B2C;1.26.14
+md_statspodkl;md_stats_old;Статистика по подключениям B2C;1.26.1
+md_statspodklcorp;md_stats_old;Статистика по подключениям В2В;1.26.2
+md_statstt_fastresh;md_stats_old;Решенные за 24 часа ТТ;1.26.88
+md_statstt_perenos;md_stats_old;Отчет по переносам ТТ;1.26.76
+md_statstt_regions;md_stats_old;Количество ТТ по районам;1.26.87
+md_statsvrtc;md_stats;Отчёт по оттокам платного ТВ;1.128.14
+md_statsvrtc2;md_stats;Проактивное удержание абонентов B2C;1.128.15
+md_stats_300;md_stats;300 рублей на счет;1.128.91
+md_stats_30_ruble;md_stats;30 дней за 1 рубль;1.128.101
+md_stats_aab_customers;md_stats_old;Развернутые данные по абонентам B2C;1.26.117
+md_stats_aab_new;md_stats_old;Выгрузка AAB;1.26.176
+md_stats_abc_pers_fill;md_stats;Отчёт по заполнению паспортных данных техниками;1.128.95
+md_stats_abon_max_delay;md_stats_old;MaxDelay (AWT в ЧНН);1.26.138
+md_stats_abon_vats;md_stats;Выручка абонентов платформы ВАТС;1.128.110
+md_stats_about_routers;md_stats_old;Статистика по оборудованию;1.26.100
+md_stats_acceleration;md_stats;Отчет по услугам 100/700;1.128.42
+md_stats_access;md_stats;Отчет по доступам к модулям;1.128.26
+md_stats_active_client_base;md_stats_old;Активная абонентская база (0, 30, 90, 180);1.26.19
+md_stats_active_gp;md_stats;Отчёт по Активной базе в разрезе ГП;1.128.107
+md_stats_active_tv;md_stats_old;IPTV subscribers ААB30;1.26.68
+md_stats_actual_tarifs;md_stats_old;Тарифные планы;1.26.149
+md_stats_adr_in_receipt;md_stats;Отчет по адресам в сформированых квитанциях;1.128.48
+md_stats_alarmer;md_stats;Отчет по просроченным ГП;1.128.100
+md_stats_arpu_count;md_stats_old;Количество абонентов по категориям ARPU (internet only);1.26.36
+md_stats_assets_on_people;md_stats_old;Списание материалов с сотрудников на Заявки;1.26.114
+md_stats_availability_schedule;md_stats_old;Доступность постановки в график в днях;1.26.34
+md_stats_avanses_b2c;md_stats_old;Отчет по авансам В2С;1.26.190
+md_stats_avanses_b2c_homenet;md_stats;Отчет по абонентам Homenet B2C;1.128.104
+md_stats_avg_cable_flow;md_stats_old;Средний расход кабеля на подключение;1.26.21
+md_stats_avg_gp_per_day;md_stats_old;Относительное количество домов под ГП в течение дня;1.26.41
+md_stats_avg_request_time;md_stats_old;Среднее время обработки заявки B2C;1.26.22
+md_stats_avg_waiting_time;md_stats_old;Среднее время ожидания ответа;1.26.30
+md_stats_avr;md_stats;Отчет по работе АВР;1.128.71
+md_stats_b2b;md_stats_old;Отчет по B2B;1.26.58
+md_stats_b2b_clients;md_stats_old;B2B Clients;1.26.130
+md_stats_b2b_clients_by_category;md_stats_old;B2B clients by category;1.26.140
+md_stats_b2b_graphs;md_stats;Отчет по логам графиков B2B;1.128.40
+md_stats_b2b_revenue;md_stats_old;B2B Revenue;1.26.131
+md_stats_b2b_tracking;md_stats;Отчёт по проработке заявок b2b;1.128.13
+md_stats_b2c;md_stats;Выручка с подключенных заявок B2C;1.128.96
+md_stats_b2c_clients_gone;md_stats_old;Отчёт по оттоку абонентов B2C;1.26.169
+md_stats_b2c_iptv_sub_base;md_stats_old;B2C IPTV Sub base;1.26.127
+md_stats_b2c_motivation;md_stats_old;Отчёт по выручке для расчёта мотивации сотрудников ШПД;1.26.161
+md_stats_b2c_pogash_oplata;md_stats_old;Детальная выгрузка B2C + погашение + оплата;1.26.172
+md_stats_b2c_revenue;md_stats_old;B2C Revenue;1.26.128
+md_stats_b2c_rtc;md_stats_old;B2C RTC;1.26.129
+md_stats_b2c_sales;md_stats_old;B2C Sales;1.26.134
+md_stats_b2x_forces;md_stats;Отчет по признаку СС;1.128.41
+md_stats_b2x_memos;md_stats;AlmaProject. Отчет по Подпроцессам;1.128.65
+md_stats_b2x_oborud;md_stats;Выгрузка: оборудование на ОХ;1.128.92
+md_stats_b2x_ordcorp;md_b2x_orders;Реестр корпоративных заявок;1.140.32
+md_stats_b2x_steps;md_stats;AlmaProject. Отчет по этапам проектов;1.128.19
+md_stats_b2x_tasks;md_stats;AlmaProject. Отчет по задачам;1.128.18
+md_stats_binom;md_stats_old;Заявки на компьютерную помощь;1.26.65
+md_stats_binomreport;md_stats_old;Отчеты по компьютерной помощи (по месяцам);1.26.67
+md_stats_block_by_neupravl_usls;md_stats_old;Дебиторская задолженность (блокировка по неуправляемым услугам);1.26.179
+md_stats_bonusball;md_stats;Отчет по бонусным баллам;1.128.51
+md_stats_bonuses;md_stats_old;Отчёт по распределению бонусов;1.26.97
+md_stats_bonuses_otchet;md_stats;Отчет об объемах, использовании и типах бонусов;1.128.52
+md_stats_bonusmoney;md_stats_old;Отчёт по бонусным скидкам;1.26.99
+md_stats_budget_allocation;md_stats_old;Распределение бюджета;1.26.92
+md_stats_budget_allocation_TMC;md_stats_old;Распределение TMC бюджета;1.26.107
+md_stats_cabel_tv;md_stats;Ежемесячный отчет по кабельному ТВ;1.128.36
+md_stats_cabtvcalling;md_stats;Обзвон должников по кабельному телевидению;1.128.54
+md_stats_call_detail;md_stats;Детализация звонков;1.128.73
+md_stats_changetarif;md_stats_old;Отчет по смене тарифного плана B2C;1.26.59
+md_stats_charged_by_irc;md_stats_old;Начисления по клиентам ИРЦ;1.26.189
+md_stats_chargeyurbycifra1;md_stats_old;Выгрузка по Юр.лицам Цифры1, периодические начисления за месяц;1.26.183
+md_stats_churn;md_stats_old;Отчет по отключенным клиентам;1.26.144
+md_stats_clients_risks;md_stats;Отчет по клиентам «Зона риска»;1.128.38
+md_stats_clients_take_up_rate;md_stats_old;TUR per houses;1.26.116
+md_stats_clients_tt;md_stats;Отчёт по клиентским ТТ из графика эксплуатации;1.128.81
+md_stats_client_phones;md_stats;Телефонные номера абонентов;1.128.87
+md_stats_closed_tt;md_stats_old;Отчет по закрытым ТТ;1.26.105
+md_stats_compensation;md_stats_old;Отчет по компенсациям;1.26.139
+md_stats_connected_houses_by_clients;md_stats_old;Подключенные дома с числом абонентов 0-2;1.26.126
+md_stats_consumption_personal_internet;md_stats_old;Списания по Персональному интернету;1.26.159
+md_stats_conversion_FTTB;md_stats_old;Конвертация FTTB;1.26.91
+md_stats_cost_control;md_stats;Заявки на закупку с признаками оплаты;1.128.12
+md_stats_current_gp;md_stats_old;Статистика по ГП;1.26.39
+md_stats_debit_per_house;md_stats_old;Списание на дом;1.26.142
+md_stats_debtcall;md_stats;Отчёт по обзвону о необходимости сдачи оборудования;1.128.37
+md_stats_debtcall_new;md_stats;Отчёт по обзвону;1.128.61
+md_stats_del;NULL;Очтеты (к удалению);1.133
+md_stats_detail_funnel_b2c;md_stats_old;Детализация воронки продаж B2C;1.26.81
+md_stats_device;md_stats;Отчёт по оборудованию;1.128.28
+md_stats_discounts;md_stats;Отчёт по скидкам;1.128.55
+md_stats_distribution_bonuses;md_stats_old;Распределение бонусов для абонентов B2C;1.26.45
+md_stats_dit_info;md_stats;Доступность сервисов ДИТ;1.128.29
+md_stats_dit_points;md_stats;Утилизация времени занятости по проектам план/факт;1.128.39
+md_stats_dogovory_sroki;md_stats;Договоры со сроком действия;1.128.53
+md_stats_dok_splits;md_stats_old;Отчет по сплитам;1.26.102
+md_stats_dolznik;md_stats_old;Отчет Должники;1.26.57
+md_stats_doma_connected;md_stats;Наши дома. Подключенные дома;1.128.115
+md_stats_dom_agents;md_stats;Расчет агентского вознаграждения по объектам B2B;1.128.77
+md_stats_dom_clients;md_stats;Выгрузка клиентов по адресам;1.128.78
+md_stats_done_work_orders;md_stats_old;Отчёт по сданным заказ-нарядам;1.26.143
+md_stats_draft;md_stats;Планирование;1.128.1
+md_stats_dynamics_of_tariffs;md_stats_old;Динамика тарифных планов B2C;1.26.82
+md_stats_dynamic_ip_count;md_stats;Отчет в WF по числу Динамических Реальных IP на руках у Абонентов;1.128.7
+md_stats_dzkz;md_stats;Отчет по ДЗ/КЗ;1.128.83
+md_stats_emailsend;md_stats;Отчёт по рассылке E-mail абонентам;1.128.33
+md_stats_EnhancedICC;md_stats_old;Статистика Enhanced ICC;1.26.120
+md_stats_equipment_sales;md_stats_old;Продажа оборудования;1.26.157
+md_stats_equipment_storage;md_stats;Оборудование на ОХ;1.128.84
+md_stats_fill_passport;md_stats;Отчёты по сканированию и заполнению ПД;1.128.99
+md_stats_fill_passport_dynamic;md_stats;Динамика внесения ПД по клиентам;1.128.103
+md_stats_finance;md_stats_old;Библиотека отчетов Финансового Департамента;1.26.163
+md_stats_for_operators;md_stats_old;Отчеты для операторов;1.26.191
+md_stats_for_operators_2;md_stats_old;Отчеты для операторов;1.26.192
+md_stats_free_clients_off;md_stats_old_off;Бесплатные абоненты;1.26.156
+md_stats_friend;md_stats;Отчет по "Приведи друга";1.128.94
+md_stats_frp;md_stats_old;Отчет по состоянию МОЛ;1.26.152
+md_stats_fttb_claims;md_stats_old;FTTB claims;1.26.37
+md_stats_gigabit;md_stats;Отчет по тарифам на гигабитных домах;1.128.119
+md_stats_graph_plan;md_stats_old;Воронка продаж B2C;1.26.51
+md_stats_har;md_stats_old;Статистика по характеристикам (TT);1.26.9
+md_stats_hay;md_stats;Статистика по опросу HAY;1.128.105
+md_stats_home_among_strangers;md_stats_old;Переходы на сайты конкурентов;1.26.94
+md_stats_house_without_iptv;md_stats_old;Дома без IPTV;1.26.135
+md_stats_ICC;md_stats_old;Статистика ICC;1.26.106
+md_stats_ICS;md_stats_old;Отчет ICS;1.26.104
+md_stats_incorrect_phones;md_stats;Отчет по некорректным телефонным номерам;1.128.106
+md_stats_input_output_trafic;md_stats_old;Входящий и исходящий трафик;1.26.43
+md_stats_insurance_outer;md_stats_old;Внешний отчёт по страхованию;1.26.186
+md_stats_interaction;md_stats_old;Отчет по интеракциям;1.26.96
+md_stats_invent_tkd;md_stats;Инвентаризация ТКД;1.128.113
+md_stats_iptv_claims;md_stats_old;IPTV claims;1.26.38
+md_stats_jumba_comments;md_stats_old;Отчет по зарегистрированным обращениям в Jumba;1.26.174
+md_stats_kz;md_stats;Отчет по КЗ;1.128.120
+md_stats_legal_clients_gone;md_stats_old;Отчет по оттоку B2B;1.26.115
+md_stats_legal_services_without_date;md_stats_old;Услуги Юр клиентов без Даты;1.26.153
+md_stats_lifetime;md_stats_old;Lifetime;1.26.147
+md_stats_lost_call_rate;md_stats_old;Lost Call Rate (all segments);1.26.31
+md_stats_loyal;md_stats;Отчет по Партнерам в Программе Лояльности;1.128.6
+md_stats_manager_b2b;md_stats_old;Отчёт по менеджерам продаж B2B;1.26.75
+md_stats_mgmn_pdgi;md_stats;Отчет по МГ/МН и ПДГИ;1.128.69
+md_stats_module_use;md_stats_old;Статистика по посещению модулей;1.26.123
+md_stats_mol;md_stats;Отчет (полный) по МОЛ за период;1.128.44
+md_stats_mol_balance;md_stats;Отчёт по остаткам на МОЛах;1.128.82
+md_stats_motivation;md_stats_old;Мотивация линейного персонала;1.26.164
+md_stats_mounter_rating;md_stats_old;Отчет по рейтингу монтажников;1.26.108
+md_stats_mounter_voices;md_stats_old;Звонки монтажников;1.26.93
+md_stats_mvequip;md_stats;Отчёт по движению клиентского оборудования;1.128.17
+md_stats_mvequip_rent;md_stats;Отчёт по клиентскому оборудованию в аренде;1.128.89
+md_stats_mvequip_svod;md_stats;Отчёт по движению и остаткам клиентского оборудования;1.128.88
+md_stats_mvno_clbalance;md_stats;Баланс договоров с MVNO;1.128.23
+md_stats_network_availibility;md_stats;Показатель доступности сети;1.128.116
+md_stats_net_health;md_stats_old;Карта здоровья сети;1.26.133
+md_stats_new_b2b_clients;md_stats_old;Новые клиенты B2B за неделю (коммерческий бэклог);1.26.84
+md_stats_new_b2c;md_stats_old;Динамика подключения новых абонентов B2C;1.26.42
+md_stats_new_connect;md_stats;Отчет по новым включениям;1.128.47
+md_stats_new_connected_houses;md_stats_old;Новые подключенные дома;1.26.132
+md_stats_new_sales;md_stats;Отчёт по менеджерам (новые продажи/отток);1.128.45
+md_stats_new_staff;md_stats_old;Отчет по оформленным сотрудникам;1.26.83
+md_stats_nodogovor;md_stats;Абоненты с файлами договора / без файлов;1.128.108
+md_stats_nps;md_stats;Отчет по оценке NPS абонентов в ЛК;1.128.86
+md_stats_nps_survey;md_stats;Абоненты с опросом NPS;1.128.98
+md_stats_obzvon;md_stats_old;Отчет для модуля обзвона с понедельным трафиком;1.26.155
+md_stats_old;NULL;Отчёты;1.26
+md_stats_ordcorp;md_stats_old;Динамика работы по заявкам B2B;1.26.5
+md_stats_orders;md_stats_old;Заявки B2C по каналам и районам;1.26.15
+md_stats_orders_change_address;md_stats_old;Смены адресов заявок;1.26.124
+md_stats_orders_write_off;md_stats_old;Отчет по списанию в заявках;1.26.60
+md_stats_order_transfer;md_stats_old;Статистика по переносам заявок B2C;1.26.90
+md_stats_ordlog;md_stats;Лог статусов по заявкам B2C;1.128.21
+md_stats_ord_export;md_stats_old;Статистика по заявкам ;1.26.181
+md_stats_org_debt_matrix;md_stats_old;Дебиторская задолженность по организации (матрица);1.26.185
+md_stats_otciot;md_stats_old+;Статистика: B2C;1.26.66
+md_stats_otciot2;md_stats_old;Автоматизация процесса расчета комиссии;1.26.165
+md_stats_otciot_bezfio;md_stats_old;Статистика по заявкам B2C;1.26.11
+md_stats_ott_pay;md_stats_old;Статистика оплаты услуги ОТТ;1.26.178
+md_stats_ott_users_money;md_stats_old;Учет средств по услугам абонентам ОТТ;1.26.177
+md_stats_page;md_stats;Статистика посещения страницы;1.128.3
+md_stats_payments;md_stats_old;График по платежам в разрезе плат систем;1.26.25
+md_stats_payments_by_dom;md_stats_old;Платежи за месяц по адресу;1.26.175
+md_stats_payonline;md_stats;Отчет по онлайн платежам;1.128.35
+md_stats_pay_by_cifra1;md_stats_old;Платежи по всем организациям;1.26.173
+md_stats_pay_by_day;md_stats_old;Платежи B2C/B2B по дням;1.26.20
+md_stats_pay_by_irc;md_stats_old;Отчет по платежам по клиентам ИРЦ;1.26.188
+md_stats_penetration_aab;md_stats_old;Проникновение ААБ;1.26.73
+md_stats_perenos;md_stats_old;Статистика по перенесенным заявкам;1.26.55
+md_stats_perezagruzka;md_stats;Зачисления по акции «Перезагрузка»;1.128.60
+md_stats_perstrf;md_stats_old;Статистика по Персональному интернету;1.26.98
+md_stats_phoneabon;md_stats;Отчёт по абонентам телефонии;1.128.90
+md_stats_phone_no_per_b2c;md_stats;Телефония B2C с оплатой и без периода;1.128.34
+md_stats_phone_no_traffic;md_stats_old;Отчет по отсутствующему трафику по телефонии;1.26.170
+md_stats_phys_terminated;md_stats;Статистика по расторгнутым договорам физлиц;1.128.76
+md_stats_plan_change_tarif;md_stats;Допродажа услуг - смена ТП;1.128.114
+md_stats_presale_leads;md_stats;Presale. Выгрузка лидов;1.128.57
+md_stats_prich;md_stats_old;Статистика по причинам отказов (TT);1.26.8
+md_stats_promise_payment;md_stats;Отчет по обещанному платежу;1.128.62
+md_stats_rasprtt;md_stats_old;Статистика ТТ по районам и характеристикам;1.26.48
+md_stats_react;md_stats_old;Отчет по реактивации - все звонки;1.26.160
+md_stats_remote_telesales;md_stats_old;Удаленные телемаркетологи (статистика);1.26.125
+md_stats_rent;md_stats;Отчет по списку доходно-расходных договоров;1.128.93
+md_stats_rentabel_uk;md_stats_old;Новый отчёт определения рентабельности по УК;1.26.195
+md_stats_rentsoft;md_stats;Заргузка и расчёт сумм по продуктам Рентсофт;1.128.30
+md_stats_rent_equipment;md_stats;Отчет по аренде оборудования;1.128.67
+md_stats_report_delivery_methods;md_stats_old;Отчет по способам доставки по юр.лицам;1.26.196
+md_stats_revenue;md_stats_old;Revenue-Total;1.26.137
+md_stats_revenue_by_house;md_stats_old;Выручка по домам, владельцам, контрагентам;1.26.146
+md_stats_router_sales;md_stats_old;Продажи роутеров по месяцам;1.26.24
+md_stats_rvzd;md_stats_old;Реестр выгрузки закрывающих документов;1.26.180
+md_stats_sales_fttb_ir;md_stats_old;Статистика FTTB Internet Requests received;1.26.26
+md_stats_sales_fttb_ni;md_stats_old;Статистика FTTB Internet New subscribers;1.26.101
+md_stats_sales_in_tur2;md_stats_old;Отчёт по мотивации продаж ШПД по TuR  0-2;1.26.150
+md_stats_sale_book;md_stats;Выгрузка книги продаж по услугам;1.128.11
+md_stats_sale_channels;md_stats_old;Воронка продаж B2C по каналам продаж;1.26.72
+md_stats_sale_tv;md_stats;Отчёт по допродажам ТВ;1.128.112
+md_stats_services;md_stats;Статистика использования В2С абонентами Платных сервисов и Дополнительных услуг 2КОМ;1.128.8
+md_stats_service_availibility;md_stats_old;Показатель доступности сервиса у абонентов;1.26.18
+md_stats_setevik;md_stats_old;Статистика по эксплуатации (TT);1.26.64
+md_stats_smotreshka_users;md_stats_old;Статистика по активным абонентам со смотрешкой;1.26.184
+md_stats_sms;md_stats;Отчет по подсчету смс трафика;1.128.5
+md_stats_sms_hotspot;md_stats;Подсчет SMS трафика по Hotspot;1.128.9
+md_stats_sms_periods;md_stats;СМС за периоды;1.128.109
+md_stats_softline;md_stats;Отчет по услугам Софтлайн;1.128.64
+md_stats_special_phone_calls;md_stats_old;Звонки на телефонные номера отдела подбора;1.26.151
+md_stats_stated_avr_tt;md_stats_old;Отчет по назначенным ТТ в график АВР;1.26.197
+md_stats_stated_tt;md_stats_old;Отчет по назначенным ТТ в график;1.26.118
+md_stats_take_up_rate;md_stats_old;Take Up Rate;1.26.29
+md_stats_tarifper;md_stats_old;Отчет по тарифам B2C за период;1.26.61
+md_stats_tarif_change;md_stats_old;Статистика по смене тарифа за период;1.26.168
+md_stats_tarif_proportion;md_stats_old;Процентное соотношение тарифов в текущем месяце;1.26.23
+md_stats_taskopen;md_stats;Статистика по посещению задач;1.128.32
+md_stats_tbot_advertising;md_stats;Отчет о рекламе через бот;1.128.117
+md_stats_telehours;md_stats_old;Загруженность телемаркетинга по часам;1.26.77
+md_stats_telephony;md_stats_old;Отчет по звонкам на рекламные номера;1.26.111
+md_stats_telephonyadm;md_stats;Oтчёт по обработке событий неуправляемой телефонии;1.128.31
+md_stats_telesales;md_stats_old;Статистика по телепродажам B2C;1.26.56
+md_stats_tinkling;md_stats_old;Отчет по модулю Перезвон;1.26.122
+md_stats_TMC_needs;md_stats_old;Отчeт по потребностям ТМЦ (по модулю Расходы);1.26.113
+md_stats_today_gp;md_stats_old;Статистика по ГП за текущий день;1.26.40
+md_stats_transferred_calls;md_stats_old;Отчет  по трансферам НРК;1.26.145
+md_stats_troublemail;md_stats_old;Отчет по интернет-корреспонденции;1.26.95
+md_stats_troublepayment;md_stats_old;Отчeт по корректировкам платежей;1.26.119
+md_stats_trouble_dit;md_stats;Выгрузка TT DIT;1.128.66
+md_stats_trouble_recourse;md_stats;Отчет по повторным обращениям по ТТ;1.128.20
+md_stats_ttnew;md_stats;Статистика по ТТ New;1.128.22
+md_stats_tt_alarm;md_stats;Отчёт по аварийности и оттоку;1.128.2
+md_stats_tt_device;md_stats;Отчет по ТТ в разрезе активного оборудования;1.128.4
+md_stats_tt_dolg;md_stats;Отчет по реактивации - задолженность;1.128.97
+md_stats_tt_incident;md_stats_old;Активные абоненты в момент "жизни" инцидента;1.26.167
+md_stats_tt_lead_to_annulment;md_stats_old;Отчет ТТ на расторжение;1.26.121
+md_stats_tt_period;md_stats;Отчет по ТТ за период;1.128.10
+md_stats_tt_processing;md_stats;Отчёт по проработке ТТ;1.128.25
+md_stats_tt_remont;md_stats;Отчёт по ТТ с ремонтом;1.128.27
+md_stats_tv;md_tv_channels;Статистика по ТВ каналам;1.50.2
+md_stats_tvinpersoninternet;md_stats_old;ТВ в продажах персонального интернета;1.26.141
+md_stats_tv_clients;md_stats;Активные абоненты Алмател ТВ на конец месяца;1.128.80
+md_stats_tv_sales;md_stats_old;Отчёт по продажам ТВ;1.26.154
+md_stats_type_inclusion;md_stats;Отчет по выручке в разрезе типов включения;1.128.46
+md_stats_usernew;md_stats_old;Статистика: принятые сотрудники;1.26.80
+md_stats_users;md_stats_old;Отчет по сотрудникам;1.26.158
+md_stats_users_activity;md_stats;Активность сотрудников в ВФ;1.128.102
+md_stats_users_actual;md_stats_old;Актуальные данные по количеству принятых и уволенных сотрудников;1.26.166
+md_stats_users_filled_data;md_stats_old;Статистика по заполненности полей у сотрудников;1.26.103
+md_stats_user_calls;md_stats_old;Информация по звонкам сотрудников;1.26.85
+md_stats_usl_and_serv;md_stats_old;Отчет по услугам и сервисам за период;1.26.187
+md_stats_ustanoborud;md_stats;Расчет с поставщиками по схеме консигнация;1.128.79
+md_stats_ustr_revenue;md_stats;Отчёт по выручке в сегменте сети;1.128.24
+md_stats_uzels;md_stats;Начисления абонентов по узлам;1.128.111
+md_stats_vassales_b2c;md_stats_old;Отчет по продажам VAS услуг;1.26.148
+md_stats_vats_abon;md_stats;Отчёт ВАТС по абонентам;1.128.85
+md_stats_VIP_VZ;md_stats;Клиенты категории VIP и VZ;1.128.118
+md_stats_vsesrazu;md_stats_old;Отчет по услуге «Все Сразу»;1.26.162
+md_stats_vsesrazu_podcl;md_stats_old;Отчёт по подключениям услуги ;1.26.171
+md_stats_workers_count;md_stats_old;Отчет по численности персонала;1.26.50
+md_stats_workers_transfer;md_stats_old;Отчет по переводам сотрудников;1.26.86
+md_stats_workgraph;md_stats_old;Статистика занятности графиков B2C;1.26.136
+md_stat_actions;md_stats_old;Статистика по акциям B2C;1.26.46
+md_survey;NULL;Опросник HAY;1.161
+md_tabel_access;md_admin;Админ - Доступ к заполнению табелей отделов;1.51.11
+md_tabel_calendar;md_tabel_new;Табель - рабочий календарь;1.43.1
+md_tabel_close_month;md_tabel_new;Табель - закрытие месяца;1.43.3
+md_tabel_graph;md_tabel_new;Табель - редактирование графика работы;1.43.2
+md_tabel_new;NULL;Табель;1.43
+md_tabel_planning;NULL;Табель - планирование посещаемости сотрудников продаж;1.110
+md_tabel_superedit;md_tabel_new;Табель - редактирование периода закрытого роботом;1.43.4
+md_task_points;md_scheduler;Проекты: чеклисты;1.10.4
+md_task_points_edit;md_task_points;Проекты: чеклисты - редактирование;1.10.4.1
+md_task_points_setuser;md_task_points;Проекты: чеклисты - планирование исполнителей;1.10.4.2
+md_task_points_tracker;md_task_points;Треккер задач (по чеклистам);1.10.4.3
+md_task_shtraf;NULL;Нарушения;1.27
+md_task_shtraf_confirm;md_task_shtraf;Нарушения: подтверждение;1.27.1
+md_task_sid;md_scheduler;Задачи: отвязка чужих задач;1.10.2
+md_tbot;NULL;Обработка TT / B2C;1.163
+md_tehnik_zp;md_menu_pay;Расчёт зарплаты техникам;1.28.2
+md_tehnik_zp_new;md_menu_pay;Расчёт зарплаты техникам новый;1.28.5
+md_teleb2b;NULL;Телепродажи B2B;1.121
+md_telephony_fop;NULL;FOP панель;1.118
+md_telephony_fop_manager;md_telephony_fop;Менеджер FOP;1.118.1
+md_telephony_stats;NULL;Доступ к статистике телефонии;1.119
+md_telequest;NULL;Опросы;1.108
+md_telequest_all;md_telequest;Телеопрос: cоздание опросов на всю компанию;1.105.1
+md_telequest_direction;md_telequest;Телеопрос: cоздание опросов на всю дирекцию;1.105.2
+md_telesales;NULL;Телепродажи B2C;1.33
+md_troubleaccess;NULL;TroubleAccess;1.8
+md_troublebonus;md_admin;Trouble - бонусные коэфициенты;1.51.12
+md_troublecorp;NULL;B2B TroubleTickets;1.6
+md_troublecorp_close;md_troublecorp;Корп. Trouble: закрытие заданий;1.6.1
+md_troublemail;NULL;Почтовый Trouble;1.7
+md_troublemail_reply;md_troublemail;Почтовый Trouble - ответы на письма;1.7.1
+md_troublemail_spam;md_troublemail;Почтовый Trouble - просмотр спама;1.7.3
+md_troublemail_tosser;md_troublemail;Почтовый Trouble - тоссер;1.7.2
+md_troubleticket;NULL;TroubleTicket;1.4
+md_trouble_aktcheck;md_troubleticket;TroubleTicket: Установка [Документы приняты];1.4.15
+md_trouble_alarmer;md_troubleticket;TroubleTicket: изменение Инцидента + ГП;1.4.4
+md_trouble_alarmtime;md_troubleticket;TroubleTicket: срок решения Инцидента;1.4.8
+md_trouble_alarm_sms_mass;md_troubleticket;Массовая рассылка sms абонентам зоны поражения по инциденту;1.4.16
+md_trouble_checked;md_troubleticket;TroubleTicket: установка проверено;1.4.12
+md_trouble_close;md_troubleticket;TroubleTicket: закрытие заданий;1.4.6
+md_trouble_gp;md_troubleticket;TroubleTicket: установка статуса 'Дом под ГП';1.4.2
+md_trouble_grafik;md_troubleticket;TroubleTicket: постановка в график;1.4.1
+md_trouble_grafik_del;md_troubleticket;TroubleTicket: удаление из графика;1.4.3
+md_trouble_grafik_today;md_troubleticket;TroubleTicket: постановка в график на текущий день;1.4.1.1
+md_trouble_opening_closed;md_troubleticket;TroubleTicket: открытие закрытых заданий;1.4.7
+md_trouble_otlozh;md_troubleticket;TroubleTicket: откладывание заданий;1.4.5
+md_trouble_payment;NULL;Корректировки платежей;1.9
+md_trouble_payment_correct;md_trouble_payment;Коррект. платежей - корректировка;1.9.1
+md_trouble_payment_manual;md_trouble_payment;Коррект. платежей - ручная корректировка;1.9.2
+md_trouble_prin;md_troubleticket;TroubleTicket: принято в работу;1.4.14
+md_trouble_raschet;md_troubleticket;TroubleTicket: pасчет для узла;1.4.9
+md_trouble_raschet_change;md_troubleticket;TroubleTicket: корректировка pасчета для узла;1.4.10
+md_trouble_voices;md_troubleticket;TroubleTicket: записи разговоров;1.4.11
+md_tt_operator;md_stats;Отчет выполнения задания по ТТ операторами;1.128.72
+md_tv_channels;NULL;TV каналы;1.50
+md_tv_packages;md_tv_channels;TV пакеты;1.50.1
+md_users;md_welcome;Сотрудники компании;1.1.1
+md_userside;NULL;UserSide;1.135
+md_users_admin;md_admin;Админ - Управление пользователями;1.51.13
+md_users_it;NULL;Редактирование сотрудников для ИТ;1.97
+md_users_wages;md_users;Карточка пользователя: Данные о зарплате;1.52.3
+md_vacation_setting;md_stats;Отчет по услуге отпуск по параметрам;1.128.63
+md_welcome;NULL;Планировщик;1.1
+md_welcome_old;NULL;Планировщик;1.116
+md_wiki;NULL;Wiki 2КОМ;1.115
+md_wiki_adm;md_wiki;Wiki (Развитие сети);1.115.3
+md_wiki_admin;md_wiki;Wiki (Администратор);1.115.1
+md_wiki_adm_edit;md_wiki;Wiki (Развитие сети. Редактирование);1.115.4
+md_wiki_dnp;md_wiki;Wiki (Новые продукты);1.115.16
+md_wiki_dnp_edit;md_wiki;Wiki (Новые продукты. Редактирование);1.115.17
+md_wiki_iptv;md_wiki;Wiki (IPTV);1.115.11
+md_wiki_iptv_edit;md_wiki;Wiki (IPTV. Редактирование);1.115.12
+md_wiki_net_admin;md_wiki;Wiki (Сетевые администраторы);1.115.5
+md_wiki_net_admin_edit;md_wiki;Wiki (Сетевые администраторы. Редактирование);1.115.6
+md_wiki_net_research;md_wiki;Wiki (Сетевые разработки);1.115.7
+md_wiki_net_research_edit;md_wiki;Wiki (Сетевые разработки. Редактирование);1.115.13
+md_wiki_service;md_wiki;Wiki (Эксплуатация и подключения);1.115.8
+md_wiki_service_edit;md_wiki;Wiki (Эксплуатация и подключения. Редактирование);1.115.9
+md_wiki_tech_support;md_wiki;Wiki (Тех. поддержка);1.115.2
+md_wiki_tech_support_edit;md_wiki;Wiki (Тех. поддержка. Редактирование);1.115.14
+md_wiki_web;md_wiki;Wiki (Веб-разработка);1.115.10
+md_wiki_web_edit;md_wiki;Wiki (Веб-разработка. Редактирование);1.115.15
+md_workflow;NULL;Сотрудники;1.36
+md_workflow_show_hidden;md_workflow;Сотрудники: Просмотр мобильного телефона CEO;1.36.1
+md_workgraph;NULL;График подключений (новый);1.18
+md_workgraphcorp;NULL;График корпоративных подключений;1.112
+md_workgraphcorp_control;md_workgraphcorp;График корпоративных подключений: управление;1.112.1
+md_workgraphcorp_ex;md_workgraphcorp;График корпоративных подключений. Расширенные права;1.112.4
+md_workgraphcorp_order;md_workgraphcorp;График корпоративных подключений: размещение заявок;1.112.2
+md_workgraphex;NULL;График эксплуатации (новый);1.20
+md_workgraph_control;md_workgraph;График подключений: управление;1.18.4
+md_workgraph_tmpl;NULL;График подключений (шаблон);1.19
+md_workgraph_tmpl_trans;NULL;График подключений (шаблон): перенос шаблона в график;1.19.1
+md_zabbix;NULL;Zabbix;1.129
+md_zpsave;md_setevik_zp;Расчёт зарплаты монтажникам: утверждение оплат;1.28.1.1
+mx_b2x_advanced;md_b2x_orders;AlmaProject. Расширенный отчет по проектам;1.140.11
+mx_b2x_calc_admin;md_b2x_orders;AlmaProject. Администрирование калькулятора предварительной проработки;1.140.16
+mx_b2x_calc_stat;md_b2x_orders;AlmaProject. Статистика использования калькулятора предварительной проработки;1.140.17
+mx_b2x_change_step_start;md_b2x_orders;AlmaProject. Отложенное оповещение о старте этапа проекта (для Отдела обслуживания B2B);1.140.22
+mx_b2x_debts;md_b2x_orders;AlmaProject. Просмотр долгов по документам;1.140.10
+mx_b2x_diag_spr;md_b2x_orders;AlmaProject. Администрирование диаграммы строительства;1.140.36
+mx_b2x_equipment_podbor;md_b2x_orders;AlmaProject. Подбор оборудования;1.140.3
+mx_b2x_equipment_zakupka;md_b2x_orders;AlmaProject. Закупка оборудования;1.140.4
+mx_b2x_ik_b2b_save;md_b2x_orders;Инвест-кейс. Сохранение выручки B2B;1.140.27
+mx_b2x_ik_capex_save;md_b2x_orders;Инвест-кейс. Сохранение затрат CAPEX;1.140.28
+mx_b2x_ik_opex_save;md_b2x_orders;Инвест-кейс. Сохранение затрат OPEX;1.140.29
+mx_b2x_koord;md_b2x_orders;AlmaProject. Расширенные права для координаторов строительства;1.140.21
+mx_b2x_korr_stat;md_b2x_orders;AlmaProject. Отчет по корректировкам счетов;1.140.18
+mx_b2x_make_vip;md_b2x_orders;AlmaProject. Установка VIP-приоритета;1.140.19
+mx_b2x_no_kodcl;md_b2x_orders;Создание проектов без кода клиента;1.140.31
+mx_b2x_orders_b2o;md_b2x_orders;AlmaProject. Права для департамента B2O;1.140.13
+mx_b2x_orders_crater;md_b2x_orders;AlmaProject. Воронка проектов;1.140.33
+mx_b2x_orders_dashboard;md_b2x_orders;AlmaProject. Дэшборд руководителя;1.140.24
+mx_b2x_orders_ik_admin;md_b2x_orders;AlmaProject. Администрирование инвест-кейсов;1.140.26
+mx_b2x_orders_move;md_b2x_orders;AlmaProject. Отчет о движении проектов;1.140.34
+mx_b2x_orders_move_adv;md_b2x_orders;AlmaProject. Отчет о движении проектов расширенный;1.140.35
+mx_b2x_orders_otd_rasch;md_b2x_orders;AlmaProject. Запуск процесса блокировки / разблокировки;1.140.30
+mx_b2x_orders_sip;md_b2x_orders;AlmaProject. Согласование бизнес-кейса;1.140.12
+mx_b2x_orders_stats;md_b2x_orders;AlmaProject. Отчет по просроченным этапам проектов;1.140.7
+mx_b2x_orders_upgrade;md_b2x_orders;AlmaProject. Запуск процесса модернизации;1.140.20
+mx_b2x_orders_view_all;md_b2x_orders;AlmaProject. Просмотр всех проектов;1.140.8
+mx_b2x_orders_view_podch;md_b2x_orders;AlmaProject. Просмотр проектов подчиненных;1.140.9
+mx_b2x_oup;md_b2x_orders;AlmaProject. Расширенные права для ОУП;1.140.6
+mx_b2x_tasks_admin;md_b2x_tasks;AlmaProject. Администрирование типов задач B2X;1.140.2.1
+mx_b2x_video_admin;md_b2x_orders;AlmaProject. Администрирование видеонаблюдения;1.140.23
+mx_docsflow_dep;md_docsflow;Документооборот. Доступ по всему отделу;1.153.2
+mx_documents_edit;md_documents;Документы: работа с файлами;1.41.2
+mx_doma_edit_nettype;md_doma_edit;Наши дома: редактирование типа подключения;1.29.27.4
+mx_doma_edit_passport;md_doma;Наши дома: паспорт дома;1.29.30
+mx_doma_move_tasks;md_doma;Перенос задач с дома на дом;1.29.31
+mx_help_admin;md_help;Помощь и техническая документация. Редактирование;1.146.1
+mx_help_tech;md_help;Помощь и техническая документация. Чтение технических описаний;1.146.2
+mx_map_draw_net_new;md_map;Карта подключенных домов Новая;1.125.18
+mx_map_draw_net_tpr;md_map;Карта подключенных домов. Редактирование ТПР;1.125.17
+mx_meeting_all;md_meeting;Совещания: просмотр всех совещаний;1.12.2
+mx_network_public;md_network;Работы на сети. Публикация на сайтах;1.35.1
+mx_obzvon_promotion_report;md_obzvon_promotion;Отчет по звонкам;1.164.1
+mx_office_call;NULL;Набор офисного телефона из WF;1.144
+mx_office_memo_acc;md_office_memo;Служебные записки. Права для бухгалтера;1.152.2
+mx_office_memo_view_all;md_office_memo;Просмотр всех служебных записок;1.152.1
+mx_ordcorp_cantpodkl;md_ordcorp;Заявки B2B: перевод заявок в статус Обслуживание;1.21.4
+mx_ordcorp_spec;md_ordcorp;Заявки B2B: выбор файла спецификации;1.21.6
+mx_orders_promocode;md_orders;Заявка B2C. Ввод промокода;1.15.22
+mx_presale_reports;md_presale;PreSale.Отчёты;1.150.1
+mx_scheduler_itk;md_scheduler;Приостановка и перенос сроков проектов с IT-комитета;1.10.5
+mx_scheduler_view_all;md_scheduler;Проекты: просмотр всех проектов;1.10.3
+mx_stats_users_activity_all;md_stats_users_activity;Просмотр статистики по всем отделам и сотрудникам;1.128.102.1
+mx_streets_nofias;pl_streets;Управление улицами: добавление без ФИАС;1.51.34.1
+mx_task_points_all;md_task_points;Проекты: чеклисты - редактирование всего;1.10.4.5
+mx_task_points_del_all;md_task_points;Проекты: чеклисты - удаление любых;1.10.4.4
+mx_troubleticket_alarmers;md_troubleticket;TroubleTicker. Связка инцидентов;1.4.24
+mx_troubleticket_calltime;md_troubleticket;TroubleTicket: установка времени звонка;1.4.17
+mx_troubleticket_change_numdog;md_troubleticket;TroubleTicket: Смена номера договора или услуги;1.4.19
+mx_troubleticket_claim;md_troubleticket;Установка признака Претензия;1.4.18
+mx_troubleticket_control;md_troubleticket;Контроль ТТ B2B;1.4.25
+mx_troubleticket_csv;md_troubleticket;TroubleTicket: выгрузка csv;1.4.22
+mx_troubleticket_edit;md_troubleticket;TroubleTicket: редактирование описания;1.4.21
+mx_troubleticket_forms;md_troubleticket;Использование кастомных форм ТТ;1.4.20
+mx_troubleticket_forms_admin;md_admin;Администрирование кастомных форм ТТ;1.51.49
+mx_troubleticket_neresheno;md_troubleticket;TroubleTicket: cмена статуса на не решено;1.4.23
+mx_troubleticket_risks_admin;md_admin;Администрирование зон риска;1.51.51
+mx_users_change_password_all;md_users;Админ - Управление пользователями - Смена паролей любому сотруднику;1.52.4
+mx_wf_access_edit_all;md_admin_wf_access;Редактирование всех пользователей;1.51.55.1
+mx_workflow_editphoto;md_workflow;Загрузка фото через карточку сотрудника;1.36.2
+mx_workflow_excel_json;NULL;Доступ к выгрузке данных всех работников;1.155
+mx_workgraphex_cells;md_workgraphex;График эксплуатации (новый): добавление ячеек;1.20.2
+off_pl_deldom;md_admin;Админ - Удаление дома;1.51.18
+off_pl_rename_dom;md_admin;Админ - Переименование дома;1.51.31
+off_pl_streets;md_admin;Админ - Управление улицами;1.51.34
+orders_see_pass;md_orders;Заявки: просмотр логина/пароля;1.15.21
+pl_address;md_admin;Управление адресами;1.51.50
+pl_callbacksadm;md_admin;Админ - Управление перезвоном;1.51.14
+pl_callblacklist;md_admin;Черный список модуля Телепродажи B2C и RTM;1.51.3
+pl_celmarkadm;md_admin;Админ - управление целевым маркетингом;1.51.4
+pl_chaddr;md_admin;Админ - Смена адреса заявки;1.51.15
+pl_chauthor;md_admin;Админ - Смена автора задачи;1.51.16
+pl_chstatus;md_admin;Админ - Смена статуса задачи;1.51.17
+pl_comments;NULL;Комментарии к задачам;1.48
+pl_delorder;md_admin;Админ - Удаление заявки;1.51.19
+pl_dolzn_change;NULL;Админ - Управление пользователями - Перевод сотрудника в другую должность;1.52.2
+pl_dolzn_phone_corp;md_dolzn_rights;Редактирование лимита моб. связи;1.13.1
+pl_dom_double;md_admin;Админ - Дубли домов;1.51.20
+pl_extra_works;NULL;Дополнительные работы у клиента;1.134
+pl_journal_obj;md_admin;Админ - Объекты журнала;1.51.21
+pl_journal_types;md_admin;Админ - Типы объектов журнала;1.51.22
+pl_light_form;md_users;Админ - Управление пользователями - Краткая форма заведения нового сотрудника;1.52.1
+pl_massaccess;md_admin;Админ - Массовая установка доступа к модулям;1.51.23
+pl_multilogin;NULL;Множественный вход в систему;1.85
+pl_ordcorp_change_services;md_admin;Редактор услуг для заявок B2B;1.51.24
+pl_ordcorp_tmpl;md_admin;Редактор шаблонов для заявок B2B;1.51.25
+pl_order_infos;md_admin;Откуда узнали;1.51.26
+pl_penalty_reason;md_admin;Админ - Причины нарушений;1.51.27
+pl_poruch;md_admin;Админ - Смена исполнителя задачи;1.51.28
+pl_region_uzel;md_admin;Админ - Распределение районов по узлам;1.51.29
+pl_remote_telesalesadm;md_admin;Управление удаленными телепродажами B2C;1.51.30
+pl_sales_channels;md_admin;Админ - Каналы продаж;1.51.32
+pl_sales_channels_utm;md_admin;Админ - Каналы продаж по UTM;1.51.33
+pl_sms;NULL;SMS-сообщения;1.49
+pl_subscribe;md_admin;Админ - Подписывание к задачам;1.51.35
+pl_syslog;md_admin;Админ - Системный лог;1.51.36
+pl_task_status;md_admin;Админ - Статусы задач;1.51.37
+pl_task_status_sogl;NULL;Согласование статусов как начальник отдела;1.89
+pl_teleb2badm;md_admin;Админ - управление телепродажами B2B;1.51.38
+pl_telephonyadm;md_admin;Управление телефонией клиентов;1.51.48
+pl_telesalesadm;md_admin;Админ - управление телепродажами B2C;1.51.39
+pl_trouble_har;md_admin;Админ - Характеристики заданий (troubleticket);1.51.40
+pl_trouble_prich;md_admin;Админ - Причины проблем (troubleticket);1.51.41
+pl_unsubscribe;md_admin;Админ - Отписывание от задач;1.51.42
+pl_useraccess;md_admin;Админ - Просмотр доступа к модулям;1.51.43
+pl_userday;md_admin;Админ - Сессии пользователей по дням;1.51.44
+pl_usersess;md_admin;Админ - Сессии пользователей;1.51.45
+pl_wifi;md_admin;Админ - сети Wi-fi;1.51.46
+script_fias_guid_confirm;md_doma;Подтверждение ФИАС кода для адресов;1.29.24
+script_fias_guid_set;md_doma;Заполнение ФИАС кода для адресов;1.29.25
+workgraphex_query_intervals;md_workgraphex;График эксплуатации (новый): настройки интервалов снятия очереди;1.20.1
+workgraph_close_resources;md_workgraph;График подключений: закрытие ресурсов;1.18.1
+workgraph_multiple;md_workgraphcorp;Много-ячеистая постановка в график B2B;1.112.3
+workgraph_open_resources;md_workgraph;График подключений: открытие ресурсов;1.18.3
+workgraph_query_intervals;md_workgraph;График подключений: настройки интервалов снятия очереди;1.18.2
